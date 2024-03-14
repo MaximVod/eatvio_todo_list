@@ -91,7 +91,16 @@ class ListsScreen extends StatelessWidget {
                       ),
                     ],
                   ),
-                ListsFailure() => const SizedBox(),
+                ListsFailure() => Center(
+                    child: Text(
+                      "Ошибка при запросе",
+                      textAlign: TextAlign.start,
+                      style: Theme.of(context).textTheme.bodyLarge?.copyWith(
+                            fontWeight: FontWeight.w600,
+                            color: Theme.of(context).colorScheme.secondary,
+                          ),
+                    ),
+                  ),
               },
             ),
           ),

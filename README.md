@@ -1,16 +1,10 @@
-# eatvio_todo_list
+Тестовое задание Eatvio
 
-TO DO List for Eatvio
+Вроде учел все пункты в ТЗ
 
-## Getting Started
+Не совсем понятно было по приватности и копировании ссылки. Сделал, чтобы ссылка шла на сервис airtable, где я собственно бэк и сделал
 
-This project is a starting point for a Flutter application.
+Так как я не спец по бэку, думаю там можно было и лучше все организовать. С сервисом не сильно знаком и некоторых вещей не знаю
+Прошу извинить может, за лишнюю замороченность кода, брал куски со своего другого проекта.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Дизайн сделал топорным, если бы что-то еще придумывал бы, то растянулось бы на дни =) Также как и комментарии не стал писать по всему коду
